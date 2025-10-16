@@ -35,3 +35,21 @@ body {
 .activity-item:last-child {
     border-bottom: none;
 }
+
+#twitter-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background-color: #1DA1F2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
