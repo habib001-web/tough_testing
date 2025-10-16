@@ -9,6 +9,7 @@ This is a single-page web application that beautifully renders a GitHub user pro
 - Fetches data based on the user ID from the URL parameter, defaults to 'torvalds'.
 - Added a button to open Twitter in a new tab.
 - A footer message: Made with 💖 by gpt-4o-mini.
+- Updated footer message to include "Made with 💖 by gpt-4o-mini" for improved visibility.
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
