@@ -33,5 +33,9 @@ function renderActivity(activities) {
     `).join('');
 }
 
+function openTwitter() {
+    window.open('https://twitter.com', '_blank');
+}
+
 fetchProfile();
 fetchActivity();
